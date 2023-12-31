@@ -1,3 +1,3 @@
 # discogs_project
 
-Repository with experiments with Discogas API to builk some useful tools for digging.
+Repository to experiment with Discogs API to build some useful tools for digging.
