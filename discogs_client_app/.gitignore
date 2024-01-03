@@ -1,1 +1,4 @@
-user_token.txt
+*.txt
+*.env
+.ipynb_checkpoints/
+outputHtml/
